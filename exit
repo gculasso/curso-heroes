@@ -1,0 +1,37 @@
+[33mcommit 5ff36089fc2b08ed87f2522f956918ff236fa833[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Gonzalo Culasso <gonzalo.culasso@gmail.com>
+Date:   Wed Mar 11 22:56:10 2020 -0300
+
+            modified:   src/app/app.module.ts
+            new file:   src/app/components/heroe-tarjeta/heroe-tarjeta.component.html
+            new file:   src/app/components/heroe-tarjeta/heroe-tarjeta.component.ts
+            modified:   src/app/components/heroes/heroes.component.html
+            modified:   src/app/components/heroes/heroes.component.ts
+            modified:   src/app/components/search/search.component.html
+            modified:   src/app/components/search/search.component.ts
+            modified:   src/app/servicios/heroes.service.ts
+            modified:   src/app/components/shared/navbar/navbar.component.ts
+
+[33mcommit 2f8ae5112a65a5efb393a12592d23e753148a9e0[m
+Author: Gonzalo Culasso <gonzalo.culasso@gmail.com>
+Date:   Tue Mar 10 09:50:31 2020 -0300
+
+    cambios al 10/3
+
+[33mcommit 6c462cc601d905e3118845bbc0bbe635fd6c55c4[m
+Author: Gonzalo <gculasso@previncaseguros.com.ar>
+Date:   Thu Mar 5 13:03:35 2020 -0300
+
+    subiendo package.json
+
+[33mcommit 22cc1067406a0691acb94f1d60d9988b8da4aafb[m
+Author: Gonzalo Culasso <gonzalo.culasso@gmail.com>
+Date:   Thu Mar 5 12:57:27 2020 -0300
+
+    iniciando repo
+
+[33mcommit e1628b1e83463a66c6cc35c0e439f33f6d06f03e[m
+Author: gculasso <61839804+gculasso@users.noreply.github.com>
+Date:   Thu Mar 5 12:37:30 2020 -0300
+
+    Initial commit
